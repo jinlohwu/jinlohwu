@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 </br>
 
 <details>
+<summary>🔭 My Top Lang</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeetwu&layout=compact" alt="skeetwu" />
+
+</details>
+<details>
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skeetwu&show_icons=true&theme=gotham" alt="skeetwu" />
