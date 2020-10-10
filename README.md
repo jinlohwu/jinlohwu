@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skeetwu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+
+![Skeet WU's github stats](https://github-readme-stats.vercel.app/api?username=skeetwu&show_icons=true&theme=highcontrast)
+</br>
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/istarwyh/count.svg" />
+</p>
