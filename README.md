@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 ![Skeet WU's github stats](https://github-readme-stats.vercel.app/api?username=skeetwu&show_icons=true&theme=highcontrast)
 </br>
 
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skeetwu&show_icons=true&theme=gotham" alt="skeetwu" />
+
+</details>
 
 <p align="center"> 
   Visitor count<br>
