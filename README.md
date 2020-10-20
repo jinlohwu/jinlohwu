@@ -14,20 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://api.dujin.org/bing/1366.php" alt="每日一片" />
+<p align="center">每日一图</p>
+<img src="https://api.dujin.org/bing/1366.php" alt="每日一图" />
 
 
 <details>
 <summary>🔭 My Top Lang</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeetwu&layout=compact" alt="skeetwu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeetwu&layout=compact" alt="skeetwu" /></p>
 
 </details>
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skeetwu&show_icons=true&theme=gotham" alt="skeetwu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skeetwu&show_icons=true&theme=gotham" alt="skeetwu" /></p>
 
 </details>
 
