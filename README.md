@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://api.dujin.org/bing/1366.php" alt="每日一片" />
+
+
 <details>
 <summary>🔭 My Top Lang</summary>
 
