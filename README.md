@@ -13,20 +13,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Hidden information.
+
+🔭 I’m currently working for Nokia in Tsingtao.
+
+🌱 I’m currently using Python/Java/Shell/Vue
+
+📫 How to reach me: i@tiaobug.com
+
 -->
-<p align="center">每日一图</p>
-<img src="https://api.dujin.org/bing/1366.php" alt="每日一图" />
 
 
-<details>
+
+
+
 <summary>🔭 My Top Lang</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeetwu&layout=compact" alt="skeetwu" /></p>
 
-</details>
-<details>
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skeetwu&show_icons=true&theme=gotham" alt="skeetwu" /></p>
 
-</details>
