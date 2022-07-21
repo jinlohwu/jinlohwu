@@ -34,7 +34,7 @@ Hidden information.
 
 <summary>📈 My GitHub Stats</summary>
 
--->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skeetwu&show_icons=true&theme=gotham" alt="skeetwu" /></p>
 
+-->
