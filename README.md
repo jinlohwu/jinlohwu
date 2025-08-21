@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Hidden information.
-
+-->
 🔭 I’m currently working for Nokia in Tsingtao.
 
 🌱 I’m currently using Python/Java/Shell/Vue
@@ -37,4 +37,4 @@ Hidden information.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skeetwu&show_icons=true&theme=gotham" alt="skeetwu" /></p>
 
--->
+
