@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Hidden information.
--->
+
 🔭 I’m currently working for Nokia in Tsingtao.
 
 🌱 I’m currently using Python/Java/Shell/Vue
